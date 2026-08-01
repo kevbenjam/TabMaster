@@ -59,7 +59,7 @@ export function getNonBigIntUserId(low: number, high: number): number {
 
 export const defaultTabsSettings: TabSettingsDictionary = {
     SteamOSCompatible: {
-        id: 'DesktopApps',
+        id: 'SteamOS',
         title: 'SteamOS Compatible',
         position: 0,
     },
